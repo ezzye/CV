@@ -1,6 +1,6 @@
-## Your Name
+## Errol (Ezzy) Elliott
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a business focused junior developer. I have used TDD and BDD to code several projects, Housemates social network and api for house sharers and a iphone app; a takeaway web app using MEAN stack and a travel web app also using MEAN stack based on Amadeus API. I am looking for a Junior Deelopment post: ideally coding and problem solving, within a agile team using BDD / TDD.
 
 ## Skills
 
