@@ -43,10 +43,7 @@ Used Ruby and Ruby on Rails to code several projects.  I have a good understandi
 
 After learning Ruby I transferred my coding skill to Javascript. I first learned and use JQuery for frontend and MEAN stack, mongodb, express and Node js for the backend.  I then learned Angular. I used Jasmine, Protractor and Frisby to test code.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I wrote several web application using my Javascript knowledge including a takeaway app using MEAN stack and JQuery; A travel website using Amadeus API and Angular and a website for finding new housemates using MEAN stack backend and Angular frontend.
 - Completed following projects:
 [Tenant_App_API](https://github.com/ezzye/Tenant_App_API), 
 [todo_challenge](https://github.com/ezzye/todo_challenge), 
@@ -54,6 +51,16 @@ After learning Ruby I transferred my coding skill to Javascript. I first learned
 [bowling-challenge-game](https://github.com/ezzye/bowling-challenge-game), 
 [thermostat_ezzye2](https://github.com/ezzye/thermostat_ezzye2), 
 [airport_javascript](https://github.com/ezzye/airport_javascript)
+
+#### Swift 2.1, xcode and IOS Mobile Apps
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 #### SCRUM and Agile project management
 
