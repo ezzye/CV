@@ -1,6 +1,8 @@
 ## Errol (Ezzy) Elliott
 
-Junior developer available immediately, 
+Junior developer available immediately.
+
+Last work project was working as sole business analysis on C# web billing for easyJet that saved £300K+ pa.
 
 Makers Academy graduate my last three projects were: 
 - TakeAway website - MEAN stack and JQuery; 
