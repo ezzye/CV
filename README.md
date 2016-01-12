@@ -32,7 +32,7 @@ Used Ruby and Ruby on Rails to code several projects.  I have a good understandi
 [BorisBike_Day4](https://github.com/ezzye/BorisBike_Day4), 
 [FizzbussTDD](https://github.com/ezzye/FizzbussTDD), 
 [ruby-kickstart](https://github.com/ezzye/ruby-kickstart), 
-[english_numbers(https://github.com/ezzye/english_numbers), 
+[english_numbers](https://github.com/ezzye/english_numbers), 
 
 - Experience
 - Achievements
