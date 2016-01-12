@@ -1,6 +1,9 @@
 ## Errol (Ezzy) Elliott
 
-Junior developer available immediately, Makers Academy graduate my last three projects were (1)TakeAway website - MEAN stack and JQuery; (2)Travel website using Amadeus api - MEAN stack and (3)Housemate, find a new housemate, Swift IOS app, Angular frontend and MEAN stack API. 
+Junior developer available immediately, Makers Academy graduate my last three projects were: 
+- TakeAway website - MEAN stack and JQuery; 
+- Travel website using Amadeus api - MEAN stack and 
+- Housemate, find a new housemate, Swift IOS app, Angular frontend and MEAN stack API. 
 
 Self-starter, career changer; previously Makers Academy coding bootcamp graduate, business analysis for new billing system at easyJet plc, ERP systems implementation at Francis Crick Institute, Systems accountant specialising in SQL and report writing at WPP plc and a qualified accountant in the City.
 
