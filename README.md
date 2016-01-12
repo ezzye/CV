@@ -5,7 +5,7 @@ Junior developer available immediately.
 Last work project was working as sole business analysis on C# web billing for easyJet that saved £300K+ pa.
 
 Makers Academy graduate my last three projects were: 
-- TakeAway website - MEAN stack and JQuery; 
+- Takeaway website - MEAN stack (mongodb, Express, Angular and Nodejs) and JQuery; 
 - Travel website using Amadeus api - MEAN stack and 
 - Housemate, find a new housemate, Swift IOS app, Angular frontend and MEAN stack API. 
 
@@ -13,9 +13,6 @@ Self-starter, career changer; previously Makers Academy coding bootcamp graduate
 
 I use TDD (Test Driven Development) and BDD (Behaviour Driven Development) to code my projects.  I am a qualified SCRUM master and have worked in Agile teams at easyJet. 
 
-My last three projects at Makers Academy were Housemates social network and api for house sharers and a iphone app; a takeaway web app using MEAN stack and a travel web app also using MEAN stack based on Amadeus API. 
-
-I am looking for a Junior Deelopment post: ideally coding and problem solving, within a agile team using BDD / TDD.
 
 ## Skills
 
