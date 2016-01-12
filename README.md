@@ -105,11 +105,13 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 **Genesis Housing Association** (2011-01 to 2012-01)   
 *ystems Accountant* - SCRUM master, Project Manager and Support Manager
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**St. George's University of London** (2010-01 to 2011-01)    
+*Systems Accountant and Implementation Consultant*
+
+**Institute of Cancer Research** (2009-01 to 2010-01)   
+*Finance System Manager*
+
+**Logica CGI** (2008-01 to 2009-01)    
+*Implementation Consultant*  
 **Company Name** (start_date to end_date)   
 *Your job title*
