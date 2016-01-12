@@ -58,17 +58,17 @@ From scratch without ever owning an Apple iPhone of any type taught myself Swift
 
 - test native IOS app using XCtesting
 - Completed following project:
-- Tenant-App	https://github.com/ezzye/Tenant-App
+- [Tenant-App](https://github.com/ezzye/Tenant-App)
 
 
 #### SCRUM and Agile project management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle, trello and JIRA on several projects
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Used agile project managment (SCRUM) in final project
+- Set up a kanban board using [waffle](https://waffle.io/) for several projects
+- All projects used code used [git](https://github.com/ezzye) for code management
+- Experienced at working in team / project environment
 
 ## Education
 
