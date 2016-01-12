@@ -2,7 +2,7 @@
 
 Junior developer available immediately, Makers Academy graduate my last three projects were (1)TakeAway website - MEAN stack and JQuery; (2)Travel website using Amadeus api - MEAN stack and (3)Housemate, find a new housemate, Swift IOS app, Angular frontend and MEAN stack API. 
 
-Self-starter, career changer; previously business analysis for new billing system at easyJet plc, ERP systems implementation at Francis Crick Institute, Systems accountant specialising in SQL and report writing at WPP plc and a qualified accountant in the City.
+Self-starter, career changer; previously Makers Academy coding bootcamp graduate, business analysis for new billing system at easyJet plc, ERP systems implementation at Francis Crick Institute, Systems accountant specialising in SQL and report writing at WPP plc and a qualified accountant in the City.
 
 I have used TDD and BDD to code several projects, Housemates social network and api for house sharers and a iphone app; a takeaway web app using MEAN stack and a travel web app also using MEAN stack based on Amadeus API. I am looking for a Junior Deelopment post: ideally coding and problem solving, within a agile team using BDD / TDD.
 
