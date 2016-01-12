@@ -47,7 +47,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-- 
+- Completed following projects:
+[Tenant_App_API](https://github.com/ezzye/Tenant_App_API)
+[todo_challenge](https://github.com/ezzye/todo_challenge)
+[Git_profile_angular](https://github.com/ezzye/Git_profile_angular)
+[bowling-challenge-game](https://github.com/ezzye/bowling-challenge-game)
+[thermostat_ezzye2](https://github.com/ezzye/thermostat_ezzye2)
+[airport_javascript](https://github.com/ezzye/airport_javascript)
 
 #### SCRUM and Agile project management
 
