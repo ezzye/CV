@@ -94,7 +94,19 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 ## Experience
 
+**easyJet** (2014-04-01 to 2015-10-01)    
+*Business Analyst* - Setting algorithms for the calculation of charges
+**The Francis Crick Institute** (2013-01-01 to 2014-03-01)   
+*Your job title*
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
+*Your job title*
+**Company Name** (start_date to end_date)    
 *Your job title*  
+**Company Name** (start_date to end_date)   
+*Your job title*
+**Company Name** (start_date to end_date)    
+*Your job title*  
+**Company Name** (start_date to end_date)   
+*Your job title*
