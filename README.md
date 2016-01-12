@@ -41,7 +41,7 @@ Used Ruby and Ruby on Rails to code several projects.  I have a good understandi
 
 #### Javascript and MEAN stack including Angular and Nodejs
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+After learning Ruby I transferred my coding skill to Javascript. I first learned and use JQuery for frontend and MEAN stack, mongodb, express and Node js for the backend.  I then learned Angular. I used Jasmine, Protractor and Frisby to test code.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
