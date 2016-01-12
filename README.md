@@ -1,6 +1,8 @@
 ## Errol (Ezzy) Elliott
 
-Junior developer available immediately, Makers Academy graduate my last three projects were: 
+Junior developer available immediately, 
+
+Makers Academy graduate my last three projects were: 
 - TakeAway website - MEAN stack and JQuery; 
 - Travel website using Amadeus api - MEAN stack and 
 - Housemate, find a new housemate, Swift IOS app, Angular frontend and MEAN stack API. 
