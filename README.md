@@ -72,7 +72,7 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2015 to January 2016)
 
 - From childhood I have coded, Basic, Pascal and have had a passion for business
 - I am studious and fast learner, gained qualifications at Project Management, Accountancy and Coding
@@ -81,13 +81,16 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 - Swift 2.1, Ruby, Rails, Javascript, Node.js, Angular.js
 - I write fully tested code using Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Manachester University (1984)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry, Theoretical Chemistry
+- GII(i)
 
-#### Any other qualifications
+
+#### Professional Qualification
+
+- Qualified Accountant FCCA
+- SCRUM Master
 
 ## Experience
 
