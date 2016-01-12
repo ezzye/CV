@@ -113,5 +113,6 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 **Logica CGI** (2008-01 to 2009-01)    
 *Implementation Consultant*  
-**Company Name** (start_date to end_date)   
-*Your job title*
+
+**Various including Internet Project Manager at WPP**   
+
