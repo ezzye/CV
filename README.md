@@ -54,12 +54,9 @@ After learning Ruby I transferred my coding skill to Javascript. I first learned
 
 #### Swift 2.1, xcode and IOS Mobile Apps
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+From scratch without ever owning an Apple iPhone of any type taught myself Swift 2.1 for final project.  Used newly acquired skill to write a IOS native app that queried a bespoke restful API, manipulated JSON, loaded profile pictures, maintained user profiles with signin and allowed users to connect(friend) other users.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- test native IOS app using XCtesting
 - Completed following project:
 - Tenant-App	https://github.com/ezzye/Tenant-App
 
