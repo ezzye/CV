@@ -74,12 +74,12 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 #### Makers Academy (start_date to end_date)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- From childhood I have coded, Basic, Pascal and have had a passion for business
+- I am studious and fast learner, gained qualifications at Project Management, Accountancy and Coding
+- Knowledgeable about OOP, TDD, SOLID, MVC, DDD
+- I valuse Software Craftsmanship
+- Swift 2.1, Ruby, Rails, Javascript, Node.js, Angular.js
+- I write fully tested code using Rspec, Jasmine, Mocha
 
 #### Your University / College (start_date to end_date)
 
