@@ -84,7 +84,7 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 #### Manachester University (1984)
 
 - Chemistry, Theoretical Chemistry
-- GII(i)
+- II(i)
 
 
 #### Professional Qualification
