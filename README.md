@@ -19,6 +19,8 @@ I use TDD (Test Driven Development) and BDD (Behaviour Driven Development) to co
 #### Ruby and Ruby on Rails
 
 Used Ruby and Ruby on Rails to code several projects.  I have a good understanding of Object Oriented Programming.  I write fully tested code.
+- Used Ruby and Ruby on Rails and Test Driven Design for last three months
+- Learned to code in Ruby in eight weeks
 - Completed following projects:
 [yelp_clone4](https://github.com/ezzye/yelp_clone4), 
 [chitter-challenge](https://github.com/ezzye/chitter-challenge), 
@@ -32,11 +34,10 @@ Used Ruby and Ruby on Rails to code several projects.  I have a good understandi
 [BorisBike_Day4](https://github.com/ezzye/BorisBike_Day4), 
 [FizzbussTDD](https://github.com/ezzye/FizzbussTDD), 
 [ruby-kickstart](https://github.com/ezzye/ruby-kickstart), 
-[english_numbers](https://github.com/ezzye/english_numbers), 
+[english_numbers](https://github.com/ezzye/english_numbers)
 
-- Experience
-- Achievements
-- Evidence
+  
+
 
 #### Javascript and MEAN stack including Angular and Nodejs
 
