@@ -20,19 +20,19 @@ I use TDD (Test Driven Development) and BDD (Behaviour Driven Development) to co
 
 Used Ruby and Ruby on Rails to code several projects.  I have a good understanding of Object Oriented Programming.  I write fully tested code.
 - Completed following projects:
-[yelp_clone4](https://github.com/ezzye/yelp_clone4)
-[chitter-challenge](https://github.com/ezzye/chitter-challenge)
-[bookmark_manager4](https://github.com/ezzye/bookmark_manager4)
-[Rock_Paper_Scissors_Game2](https://github.com/ezzye/Rock_Paper_Scissors_Game2)
-[bookmark_manager3](https://github.com/ezzye/bookmark_manager3)
-[battle_2_evening](https://github.com/ezzye/battle_2_evening)
-[takeaway-challenge](https://github.com/ezzye/takeaway-challenge)
-[Oystercard-Evening-2](https://github.com/ezzye/Oystercard-Evening-2)
-[airport_challenge](https://github.com/ezzye/airport_challenge)
-[BorisBike_Day4](https://github.com/ezzye/BorisBike_Day4)
-[FizzbussTDD](https://github.com/ezzye/FizzbussTDD)
-[ruby-kickstart](https://github.com/ezzye/ruby-kickstart)
-[english_numbers(https://github.com/ezzye/english_numbers)
+[yelp_clone4](https://github.com/ezzye/yelp_clone4), 
+[chitter-challenge](https://github.com/ezzye/chitter-challenge), 
+[bookmark_manager4](https://github.com/ezzye/bookmark_manager4), 
+[Rock_Paper_Scissors_Game2](https://github.com/ezzye/Rock_Paper_Scissors_Game2), 
+[bookmark_manager3](https://github.com/ezzye/bookmark_manager3), 
+[battle_2_evening](https://github.com/ezzye/battle_2_evening), 
+[takeaway-challenge](https://github.com/ezzye/takeaway-challenge), 
+[Oystercard-Evening-2](https://github.com/ezzye/Oystercard-Evening-2), 
+[airport_challenge](https://github.com/ezzye/airport_challenge), 
+[BorisBike_Day4](https://github.com/ezzye/BorisBike_Day4), 
+[FizzbussTDD](https://github.com/ezzye/FizzbussTDD), 
+[ruby-kickstart](https://github.com/ezzye/ruby-kickstart), 
+[english_numbers(https://github.com/ezzye/english_numbers), 
 
 - Experience
 - Achievements
