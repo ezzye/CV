@@ -83,8 +83,7 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 #### Manachester University (1984)
 
-- Chemistry, Theoretical Chemistry
-- II(i)
+- Chemistry, Theoretical Chemistry II(i)
 
 
 #### Professional Qualification
@@ -96,12 +95,16 @@ Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle
 
 **easyJet** (2014-04-01 to 2015-10-01)    
 *Business Analyst* - Setting algorithms for the calculation of charges
+
 **The Francis Crick Institute** (2013-01-01 to 2014-03-01)   
-*Your job title*
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*
+*Finance and Procurement Business Analyst* - Product Owner for the finance and procurement system
+
+**Southend Borough Council** (2012-04-01 to 2012-11-01)    
+*Manager in charge of Agresso ERP system and Support team*
+
+**Genesis Housing Association** (2011-01 to 2012-01)   
+*ystems Accountant* - SCRUM master, Project Manager and Support Manager
+
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
