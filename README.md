@@ -11,7 +11,7 @@ I am a Makers Academy graduate, my last three projects were:
 
 I am a self-starter, career changer; previously Makers Academy coding bootcamp graduate, business analysis for new billing system at easyJet plc, ERP systems implementation at Francis Crick Institute, Systems accountant specialising in SQL and report writing at WPP plc and a qualified accountant in the City.
 
-I use TDD (Test Driven Development) and BDD (Behaviour Driven Development) to code my projects.  I am a qualified SCRUM master and have worked in Agile teams at easyJet. 
+I passionatly believe in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.  I am a qualified SCRUM master and have worked in Agile teams at easyJet. 
 
 
 ## Skills
