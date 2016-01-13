@@ -18,7 +18,7 @@ I passionately believe in TDD (Test Driven Development) and BDD (Behaviour Drive
 
 #### Ruby and Ruby on Rails
 
-Used Ruby and Ruby on Rails to code several projects.  I have a good understanding of Object Oriented Programming.  I write fully tested code.
+I love coding in Ruby and Ruby on Rails and have used it to code several projects.  I have a good understanding of Object Oriented Programming.  I write fully tested code.
 - Used Ruby and Ruby on Rails and Test Driven Design for last three months
 - Learned to code in Ruby in eight weeks
 - Completed following projects:
