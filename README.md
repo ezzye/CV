@@ -4,7 +4,7 @@ Junior developer available immediately.
 
 My last project as an employee was working as sole business analysis on C# web billing for easyJet that saved £300K+ pa.
 
-Makers Academy graduate, my last three projects were: 
+I am a Makers Academy graduate, my last three projects were: 
 - Takeaway website - BDD, MEAN stack (mongodb, Express, Angular and Nodejs) and JQuery; 
 - Travel website using Amadeus api - BDD, MEAN stack and 
 - Housemate, find a new housemate, TDD, Swift IOS app, Angular frontend and MEAN stack API. 
