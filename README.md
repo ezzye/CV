@@ -63,7 +63,7 @@ From scratch without ever owning an Apple iPhone of any type, taught myself Swif
 
 #### SCRUM and Agile project management
 
-Qualified CRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle, trello and JIRA on several projects
+Qualified SCRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffle, trello and JIRA on several projects
 
 - Used agile project managment (SCRUM) in final project
 - Set up a kanban board using [waffle](https://waffle.io/) for several projects
