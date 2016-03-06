@@ -103,7 +103,7 @@ Qualified SCRUM Master.  Profiecient in the use of Git and Git-flow.  Used waffl
 *Manager in charge of Agresso ERP system and Support team*
 
 **Genesis Housing Association** (2011-01 to 2012-01)   
-*ystems Accountant* - SCRUM master, Project Manager and Support Manager
+*Systems Accountant* - SCRUM master, Project Manager and Support Manager
 
 **St. George's University of London** (2010-01 to 2011-01)    
 *Systems Accountant and Implementation Consultant*
